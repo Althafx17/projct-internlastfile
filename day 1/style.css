@@ -1,0 +1,43 @@
+body{background-image:url(https://coolbackgrounds.io/images/unsplash/samuel-zeller-medium-b832fe04.jpg);
+     text-align:center;
+    }
+
+h1{
+    color: goldenrod;
+    text-shadow: aquamarine;
+    align-content: center;
+    border: 12px;
+    border-radius: 12px;
+    font-style: italic;
+} 
+img{
+    size: 300px;
+    align-items: center;
+    margin-left: 50px;
+
+}
+table{
+    margin: 200px;
+    size:100px;
+    width:100px;
+    text-size-adjust: 100px;
+    text-overflow: ellipsis;
+    /* background-image:url(https://cdn.prod.website-files.com/62714d97d00dcc7c47d2d70e/64b70b05ec9f991049cd3c66_best%20affordable%20watch%20brands.jpg) ; */
+    border: 2px solid chocolate;
+    margin: 12px;
+    background-size: cover;
+    background-position: center;
+    align-items: center;
+    margin-left: 250px;
+}
+.a{
+    background-image:url(https://cdn.prod.website-files.com/62714d97d00dcc7c47d2d70e/64b70b05ec9f991049cd3c66_best%20affordable%20watch%20brands.jpg);
+    background-size:cover;
+    text-align: center;
+    color: bisque;
+    border: 150px;
+    border-radius: 10px;
+    border-color: rgb(252, 248, 248);
+    background-position: center;
+    padding: 10px;
+}
